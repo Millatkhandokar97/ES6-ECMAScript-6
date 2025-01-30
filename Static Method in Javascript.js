@@ -1,5 +1,7 @@
 // Static Method in Javascript
 
+// 
+
 class Person {
     constructor(name, email){
         this.name = name
